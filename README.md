@@ -21,26 +21,36 @@ Examples of how to use the project, including code snippets and screenshots.
 ## Features
 A list of the project's main features.
 
-## UI/UX Highlights
-### Design Snapshot
-A quick look at the UI/UX design:
-- **Design Philosophy**: A sentence or two about your approach to the design, focusing on user experience and interface simplicity.
-- **Screenshot**: Include a single, representative screenshot of the UI. 
-  - 
-  - [Figma File](https://www.figma.com/file/GM5wEhFCJpJ8H6jELyRsKu/Untitled?type=design&node-id=3%3A50&mode=design&t=xFOZJeGwPx8zyQLF-1)
-    <details>
-      <summary><b>Design Images</b></summary>
-      
-      ![image](https://github.com/JoseC07/NextTwitchDash/assets/41974218/5f320d26-52bd-4732-9f5f-fe94baffbdce)
-      
-      ![image](https://github.com/JoseC07/NextTwitchDash/assets/41974218/382bdec0-1c01-441e-90f5-a7f97e7b1f14)
-    </details>
+## Design
 
-- **Design Tools**: Mention briefly what tools were used for the design (e.g., Figma).
+A quick look at the UI/UX design:
+- **Design Philosophy**: Minimalistic user-friendly approch with a Twitch inspired theme.
+  <details>
+    <summary>Screenshots</summary>
+        
+    ![image](https://github.com/JoseC07/NextTwitchDash/assets/41974218/5f320d26-52bd-4732-9f5f-fe94baffbdce)
+        
+    ![image](https://github.com/JoseC07/NextTwitchDash/assets/41974218/382bdec0-1c01-441e-90f5-a7f97e7b1f14)
+  </details>
+  
+- **Design Tools**: Figma, Adobe Photoshop, ChatGPT AI Images
 
 
 ## Technologies Used
-List of technologies, frameworks, and tools used in the project.
+
+### Frontend
+- **Next.js with TypeScript**: Utilized for creating dynamic, responsive UI components. TypeScript enhances code reliability and maintainability.
+
+### Backend
+- **Express.js with TypeScript**: Powers the RESTful API, handling data processing and server-side logic. TypeScript is used for better type safety and code structure.
+
+### Database
+- **MongoDB**: Chosen for its flexibility and scalability, MongoDB is used for storing and managing user data, as well as application data. Supports CRUD operations essential for the application's functionality.
+
+### Additional Tools and APIs
+- **Twitch API**: Integrated for fetching and displaying data from Twitch, essential for the app's core functionality related to streaming analytics.
+- **Custom Notifications & Alerts API** (Stretch Goal): A planned feature to develop a custom API for real-time notifications and alerts, enhancing user engagement.
+- **Charts API for Data Visualization** (Stretch Goal): To be integrated for visually representing data, making analytics more user-friendly and insightful.
 
 ## How to Contribute
 Guidelines for contributing to the project (if you're open to contributions).
