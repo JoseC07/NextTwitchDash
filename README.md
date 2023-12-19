@@ -26,7 +26,7 @@ A list of the project's main features.
 A quick look at the UI/UX design:
 - **Design Philosophy**: A sentence or two about your approach to the design, focusing on user experience and interface simplicity.
 - **Screenshot**: Include a single, representative screenshot of the UI. 
-  - ![UI Screenshot]([URL_of_screenshot](https://www.figma.com/file/GM5wEhFCJpJ8H6jELyRsKu/Untitled?type=design&node-id=3%3A50&mode=design&t=xFOZJeGwPx8zyQLF-1))
+  - ![UI Screenshot](https://www.figma.com/file/GM5wEhFCJpJ8H6jELyRsKu/Untitled?type=design&node-id=3%3A50&mode=design&t=xFOZJeGwPx8zyQLF-1)
 - **Design Tools**: Mention briefly what tools were used for the design (e.g., Figma).
 
 
