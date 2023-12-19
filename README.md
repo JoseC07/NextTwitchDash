@@ -44,4 +44,4 @@ For any inquiries or discussions regarding this project, feel free to reach out 
 
 ---
 
-This section now provides clear channels for others to contact you, fostering collaboration and communication around your project. Remember to keep the Discord link updated as invite links can expire or change.
+This Project is currently in Progress. The 100-day coding sprint will be starting on December 18, 2023, and will reach its finish line on Wednesday, March 27, 2024 or before....
