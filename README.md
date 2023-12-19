@@ -27,7 +27,11 @@ A quick look at the UI/UX design:
 - **Design Philosophy**: A sentence or two about your approach to the design, focusing on user experience and interface simplicity.
 - **Screenshot**: Include a single, representative screenshot of the UI. 
   - 
-  - [Figma File](https://www.figma.com/file/GM5wEhFCJpJ8H6jELyRsKu/Untitled?type=design&node-id=3%3A50&mode=design&t=xFOZJeGwPx8zyQLF-1) 
+  - [Figma File](https://www.figma.com/file/GM5wEhFCJpJ8H6jELyRsKu/Untitled?type=design&node-id=3%3A50&mode=design&t=xFOZJeGwPx8zyQLF-1)
+  - ![image](https://github.com/JoseC07/NextTwitchDash/assets/41974218/5f320d26-52bd-4732-9f5f-fe94baffbdce)
+  - ![image](https://github.com/JoseC07/NextTwitchDash/assets/41974218/382bdec0-1c01-441e-90f5-a7f97e7b1f14)
+
+
 - **Design Tools**: Mention briefly what tools were used for the design (e.g., Figma).
 
 
