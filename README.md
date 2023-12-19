@@ -42,6 +42,9 @@ For any inquiries or discussions regarding this project, feel free to reach out 
 - **Discord**: Join the conversation on Discord - [Join here](https://discord.gg/TpzVk7wd).
 - **Email**: For direct communication, email me at [caudillojose5@gmail.com](mailto:caudillojose5@gmail.com).
 
+That sounds like a great addition to your project's README or description. It provides clear information about the timeline and current status of your project. Here’s how you can phrase it:
+
 ---
 
-This Project is currently in Progress. The 100-day coding sprint will be starting on December 18, 2023, and will reach its finish line on Wednesday, March 27, 2024 or before....
+## Project Status
+This project is currently in progress. The 100-day coding sprint commenced on December 18, 2023, and is anticipated to reach its culmination on or before Wednesday, March 27, 2024. Stay tuned for regular updates and milestones as the project evolves.
