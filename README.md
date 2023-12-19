@@ -21,6 +21,15 @@ Examples of how to use the project, including code snippets and screenshots.
 ## Features
 A list of the project's main features.
 
+## UI/UX Highlights
+### Design Snapshot
+A quick look at the UI/UX design:
+- **Design Philosophy**: A sentence or two about your approach to the design, focusing on user experience and interface simplicity.
+- **Screenshot**: Include a single, representative screenshot of the UI. 
+  - ![UI Screenshot](URL_of_screenshot)
+- **Design Tools**: Mention briefly what tools were used for the design (e.g., Figma).
+
+
 ## Technologies Used
 List of technologies, frameworks, and tools used in the project.
 
