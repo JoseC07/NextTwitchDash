@@ -39,5 +39,9 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Contact
 For any inquiries or discussions regarding this project, feel free to reach out through the following:
 
-Discord: Join the conversation on Discord - Join here.
-Email: For direct communication, email me at caudillojose5@gmail.com.
+- **Discord**: Join the conversation on Discord - [Join here](https://discord.gg/TpzVk7wd).
+- **Email**: For direct communication, email me at [caudillojose5@gmail.com](mailto:caudillojose5@gmail.com).
+
+---
+
+This section now provides clear channels for others to contact you, fostering collaboration and communication around your project. Remember to keep the Discord link updated as invite links can expire or change.
