@@ -55,7 +55,7 @@ A quick look at the UI/UX design:
 ## How to Contribute
 Guidelines for contributing to the project (if you're open to contributions).
 
-## 100-Day Coding Sprint Roadmap
+## Roadmap
   <details>
   <summary><b>Progress Check-boxes</b></summary>
     
