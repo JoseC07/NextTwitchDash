@@ -19,8 +19,18 @@ app.post('/test',(req,res) => {
 })
 
 app.get('/auth/twitch',(req,res)=> {
-    const redirectUri = `https://id.twitch.tv/oauth2/token?client_id=${process.env.TWITCH_CLIENT_ID}&clientsecret=${process.env.TWITCH_CLIENT_SECRET}&grant_type=client_credentials`;
-    res.redirect(redirectUri);
+    const twitchAuthURL = `https://id.twitch.tv/oauth2/authorize?response_type=code&client_id=${process.env.TWITCH_CLIENT_ID}&redirect_uri=${process.env.TWITCH_REDIRECT_URI}&scope=moderator%3Aread%3Afollowers`;
+    res.redirect(twitchAuthURL);
+});
+
+app.get('/auth/twitch/callback',(req,res)=> {
+    const authorizationCode = req.query.code as string;
+    console.log(authorizationCode);
+    if(!authorizationCode)
+    {
+        return res.status(400).send('Authorization code is missing');
+    }
+
 });
 
 app.listen(port,()=>{
